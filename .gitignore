@@ -1,0 +1,32 @@
+# Compiled binaries
+*.exe
+*.out
+carbon
+carbon-*
+
+# Object files
+*.o
+*.obj
+
+# Output files
+report.txt
+
+# IDE and editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
