@@ -42,7 +42,7 @@ The **greenhouse gas (GHG) emission factors** applied in this tool **are based o
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/farm-carbon-footprint.git
+git clone [https://github.com/your-username/farm-carbon-footprint.git](https://github.com/PavloICSA/CarbonFarm)
 cd farm-carbon-footprint
 ```
 
